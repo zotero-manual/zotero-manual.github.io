@@ -1,0 +1,89 @@
+#Mastering Zotero
+
+##Preface
+- About the authors
+- Target audience
+- Why we wrote the book
+- How the book is released (license (BY-SA), free PDF/eBook, print copy for sale)
+
+##Introduction
+- What is Zotero
+- Is Zotero the right tool for you? (discuss product landscape)
+
+##New Features per Version
+- for existing users: describe new features for each (major) Zotero version, and link to relevant entries in manual (would not be part of print edition?)
+
+##Getting started
+- Zotero for Firefox vs. Zotero Standalone, choosing the right version
+- Installation (interface language)
+- Upgrading
+- Zotero interface (describe the main UI elements)
+
+##Adding Items
+- Migrating from other products
+- Save via translators
+- Manual entry
+- Saving webpages
+- Import export files
+- Import via identifiers
+- Import via PDF metadata
+
+##Adding Files
+- Links/copies
+
+##Syncing
+- Item vs. file syncing, manual vs. automatic
+- Zotero Storage
+- WebDAV
+
+##Backup & Export
+- Sync no substitute for backup
+- Zotero data directory (warn against Dropbox)
+- Export formats (if leaving Zotero)
+
+##Library Curation
+- Collections & (colored) tags
+- Related
+- Notes
+- Duplicates
+- Search
+- Sorting
+- Prepare to cite!
+ - Sentence case/Title Case
+ - Rich text markup
+ - Journal Abbreviations (with periods)
+ - Item Language
+ - URL as item metadata
+
+##Citations and Bibliographies
+- ODFScanner
+- Word Processor Plugins
+- BibTeX integration
+- CSL styles, installing/editing/etc.
+- Quickcopy
+- Reports
+
+##Collaboration
+- Groups
+- Sharing single account
+
+##Languages (does this need its own chapter, or put it in other sections?)
+- Interface language
+- Where are translations done (Transifex, CSL locales)
+- Bibliography language (default-locale)
+- MLZ
+
+##Miscellaneous (where does this stuff go?)
+- Locate
+- Proxies
+- Timelines
+
+##Zotero Preferences
+
+##Zotero Plugins
+- Zotfile
+
+##Online Library
+
+##Zotero for mobile
+- Zandy
