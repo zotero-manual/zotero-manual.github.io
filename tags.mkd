@@ -1,24 +1,24 @@
 #Tags
 
-Zotero allows you to add descriptive keywords, so-called tags, to items, files, links and notes. Together with collections, tags are one of the main ways by which you can organize your Zotero library.
+With Zotero you can add descriptive keywords, so-called *tags*, to items, files, links and notes. Together with collections, tags can help you organize your Zotero library.
 
-How do tags differ from collections? First, collections can have subcollections. In contrast, tags in Zotero are not hierarchical. A second important difference is that tags are more portable than collections. Many export formats (like RIS) support tags, but few support collections.
+How do tags differ from collections? First, tags in Zotero are not hierarchical, whereas collections can have subcollections. Secondly, tags are more portable than collections: many export formats (like RIS) save your tags, but few support collections.
 
 ##Adding Tags
 
 ###Adding Tags by Hand
 
-To add a tag to an item, select an item in the center column, and click on the **Tags** tab in the right-hand column. Click the **Add** button in the **Tags** tab, type the desired tag, and press Enter.
+To add a tag to an item, select an item in the center column, and click on the **Tags** tab in the right-hand column. Click the **Add** button, type the desired tag, and press Enter.
 
-(screenshot of Tags tab)
+![image](screenshots/OSX-ZS-4.0.8-tag-tab.png)
 
-To add a tag to a file, link, or note, select one in the center column, and click on the **Tags** field. This will show a small pop-up, with the same interface as found in the **Tags** tab.
+To add a tag to a file, link, or note, select one in the center column, and click on its **Tags** field in the right-hand column. This will show a small pop-up, with the same interface as found in the **Tags** tab of items.
 
-(screenshot of right-hand column for attachment)
+![image](screenshots/OSX-ZS-4.0.8-tag-field.png)
 
-To quickly add multiple tags, press Shift + Enter when you have selected a tag in the right-hand column. This will expand the field. Copy and paste a list of desired tags into the field, and press Shift + Enter again. Zotero will add a tag for each line in the list.
+To quickly add multiple tags, press `Shift + Enter` when you have selected a tag in the right-hand column. This will expand the field. Copy and paste a list of desired tags into the field, and press `Shift + Enter` again. Zotero will add a tag for each line in the list.
 
-(screenshot showing expanded tag field)
+![image](screenshots/OSX-ZS-4.0.8-tag-batch.png)
 
 By default, the **Tag Selector** in the left column shows all tags present in the currently selected library or collection. As an alternative way of adding tags, you can drag one or multiple items/files/links/notes from the center column and drop them onto a tag in the **Tag Selector**.
 
