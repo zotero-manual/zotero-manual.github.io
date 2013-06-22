@@ -19,7 +19,7 @@
 - Upgrading
 - Zotero interface (describe the main UI elements)
 
-##Adding Items
+##Adding Items (Sebastian)
 - Migrating from other products
 - Save via translators
 - Manual entry
@@ -55,8 +55,8 @@
  - Item Language
  - URL as item metadata
 
-##Citations and Bibliographies
-- ODFScanner
+##Citations and Bibliographies (Sebastian)
+- ODFScanner 
 - Word Processor Plugins
 - BibTeX integration
 - CSL styles, installing/editing/etc.
@@ -78,7 +78,7 @@
 - Proxies
 - Timelines
 
-##Zotero Preferences
+##Zotero Preferences (Sebastian)
 
 ##Zotero Plugins
 - Zotfile
