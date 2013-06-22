@@ -1,0 +1,16 @@
+---
+title: Adding Items
+layout: default
+---
+
+#Adding Items
+
+##Adding Items by Identifier
+
+You can quickly add items to your Zotero library using the **Add Item(s) by Identifier** button (![add by identifier](icons/toolbar-lookup.png)) at the top of the center column. Zotero can automatically create items from DOIs (for journal articles, via [CrossRef](http://www.crossref.org/)), ISBNs (for books, via [WorldCat](http://www.worldcat.org)), and PubMed IDs (for journal articles, via [NCBI PubMed](http://www.ncbi.nlm.nih.gov/pubmed/)).
+
+![Adding an item using its ISBN.](screenshots/OSX-ZS-4.0.8-add-identifier.png)
+
+There are two ways to add multiple items at once. You can enter multiple identifiers on a single line, separated by a comma or comma-space (e.g., "978-1479347711, 978-0415948739, 978-0838985892"). Alternatively, you can press `Shift + Enter` when the cursor is in the text field to expand the field. You can then copy and paste a list of identifiers into the field (one per line), and press `Shift + Enter` again or click the "Search" button. You can also directly paste a multi-line list of identifiers in the unexpanded text field.
+
+![Batch-adding items using their ISBNs.](screenshots/OSX-ZS-4.0.8-add-identifier-batch.png)
