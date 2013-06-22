@@ -1,3 +1,8 @@
+---
+title: Tags
+layout: default
+---
+
 #Tags
 
 With Zotero you can add descriptive keywords, so-called *tags*, to items, files, links and notes. Together with collections, tags can help you organize your Zotero library.
