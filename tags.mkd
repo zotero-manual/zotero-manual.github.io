@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Tags
+layout: default
 ---
 
 #Tags
