@@ -112,7 +112,7 @@ Alternatively, you can select one or several entries in a bibliographic format a
 
 *ZFF only* 
 
-Many online databases offer users the option to export citation data directly to RIS or Refer format (sometimes this option will be called "Export to Reference Manager" or "Export to Endnote"). In most such cases, Zotero will offer import via the URL bar icon as described [above](##Using Zotero Web Translators) and users should always prefer that option. If that option is not available, however, Zotero will, by default, automatically import downloaded citation data in RIS, Refer, and BibTeX format. The first time a user downloads citation data from a page, she will be prompted by Zotero and can opt to always import such data automatically. 
+Many online databases offer users the option to export citation data directly to RIS or Refer format (sometimes this option will be called "Export to Reference Manager" or "Export to Endnote"). In most such cases, Zotero will offer import via the URL bar icon as described above and users should always prefer that option. If that option is not available, however, Zotero will, by default, automatically import downloaded citation data in RIS, Refer, and BibTeX format. The first time a user downloads citation data from a page, she will be prompted by Zotero and can opt to always import such data automatically. 
 
 ![Always import RIS/Refer data from a site to Zotero](./screenshots/Ubuntu-ZF-4.0.8-ris-dialog.png)
 
