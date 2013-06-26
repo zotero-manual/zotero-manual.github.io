@@ -214,6 +214,4 @@ in Firefox and "Save Zotero Snapshot from Current Page" in Chrome and Safari.
 
 In Firefox, you can also use the **Create Web Page from Current Page** icon (![Create Web Page Item Icon](./screenshots/Ubuntu-ZF-3-0-11-create-web-page-item.png)).
 
-Adding a webpage like this is always a second best to using a translator and will only import rudimentary data, so you should rarely (if ever) use it where import via a translator/URL bar icon is available. However, it does provide several advantages over manually creating a **Webpage** item type: The URL is automatically and correctly saved, as is the access date, and Zotero includes, by default, a Snapshot of the webpage, archiving it in case it later changes or disappears.  
-
-`
+Adding a webpage like this is always a second best to using a translator and will only import rudimentary data, so you should rarely (if ever) use it where import via a translator/URL bar icon is available. However, it does provide several advantages over manually creating a **Webpage** item type: The URL is automatically and correctly saved, as is the access date, and Zotero includes, by default, a Snapshot of the webpage, archiving it in case it later changes or disappears.
