@@ -15,19 +15,19 @@ How do tags differ from collections? First, tags in Zotero are not hierarchical,
 
 To add a tag to an item, select an item in the center column, and click on the **Tags** tab in the right-hand column. Click the **Add** button, type the desired tag, and press Enter.
 
-![Adding a tag in the Tags tab of an item.](screenshots/OSX-ZS-4.0.8-tag-tab.png)
+![Adding a tag in the Tags tab of an item.](screenshots/OSX-ZS-4-0-8-tag-tab.png)
 
 To add a tag to a file, link, or note, select one in the center column, and click on its **Tags** field in the right-hand column. This will show a small pop-up, with the same interface as found in the **Tags** tab of items.
 
-![The Tag field of a PDF.](screenshots/OSX-ZS-4.0.8-tag-field.png)
+![The Tag field of a PDF.](screenshots/OSX-ZS-4-0-8-tag-field.png)
 
 To quickly add multiple tags, press `Shift + Enter` when you have selected a tag in the right-hand column. This will expand the field. Copy and paste a list of desired tags into the field, and press `Shift + Enter` again. Zotero will add a tag for each line in the list.
 
-![Batch-adding tags in the Tags tab.](screenshots/OSX-ZS-4.0.8-tag-batch.png)
+![Batch-adding tags in the Tags tab.](screenshots/OSX-ZS-4-0-8-tag-batch.png)
 
 By default, the **Tag Selector** in the left column shows all tags present in the currently selected library or collection. As an alternative way of adding tags, you can drag one or multiple items (or files, links, and notes) from the center column and drop them onto a tag in the **Tag Selector**.
 
-![Dragging an item onto a tag in the Tag Selector.](screenshots/OSX-ZS-4.0.8-tag-drag.png)
+![Dragging an item onto a tag in the Tag Selector.](screenshots/OSX-ZS-4-0-8-tag-drag.png)
 
 ###Automatic Tags
 
@@ -37,7 +37,7 @@ If you don't want Zotero to save automatic tags, uncheck the "Automatically tag 
 
 You can also hide automatic tags from the **Tag Selector** by unchecking the "Show Automatic" option in the **Actions** menu (![tag selector menu](icons/tag-selector-menu.png)) of the **Tag Selector**.
 
-![Unchecking the "Show Automatic" option hides automatic tags.](screenshots/OSX-ZS-4.0.8-tag-show-automatic.png)
+![Unchecking the "Show Automatic" option hides automatic tags.](screenshots/OSX-ZS-4-0-8-tag-show-automatic.png)
 
 ##Renaming, Deleting, and Merging Tags
 
@@ -67,10 +67,10 @@ If you (temporarily) don't need the **Tag Selector** and rather have more room i
 
 Colored tags can be even more useful than regular tags. To assign a color to a tag, right-click the tag in the **Tag Selector** (control-click on OS X), and select "Assign Color...". In the pop-up window that opens, select the desired tag color, and click "Set Color". Up to six tags can be assigned colors. To remove a color from a tag, select "Remove Color" in the same pop-up window.
 
-![Assigning a tag color.](screenshots/OSX-ZS-4.0.8-tag-assign-color.png)
+![Assigning a tag color.](screenshots/OSX-ZS-4-0-8-tag-assign-color.png)
 
 Items that carry colored tags show small colored squares (in the color of the tags) in front of their titles in the center column. Colored tags make it easy to quickly scan a collection or library and see which items have been assigned a certain tag. And since colored tags are grouped together at the top of the **Tag Selector**, they are always within grasp.
 
-![Items with colored squares are easily identified in the center column by the colored squares in front of their titles.](screenshots/OSX-ZS-4.0.8-tag-colors.png)
+![Items with colored squares are easily identified in the center column by the colored squares in front of their titles.](screenshots/OSX-ZS-4-0-8-tag-colors.png)
 
 Colored tags can be quickly added and removed from items by pressing the number keys 1 through 6. The position of each colored tag in the Tag Selector corresponds to a number key on your keyboard: pressing "1" adds (or removes) the first colored tag to the items selected in the center column, while pressing "2" adds (or removes) the second colored tag, et cetera. The position of colored tags can be changed in the "Assign Color..." pop-up window, by changing the position of each tag. Unlike regular tags, colored tags always show in the **Tag Selector** (when none of the items in the center column carry a colored tag, the tag becomes translucent). So if you forgot the number that belongs to a certain tag, just look at the position of the tag in the **Tag Selector**.

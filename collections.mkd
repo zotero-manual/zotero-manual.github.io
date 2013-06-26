@@ -7,7 +7,7 @@ layout: default
 
 Collections help you organize your Zotero library. For instance, you can create a collection for each project you work on. Unlike tags, collections can be hierarchical: each collection can have one or more subcollections. When a collection is selected in the left-hand column, only the items in that collection are shown in the center column. And when you add items to your Zotero library, they are automatically added to the currently selected collection.
 
-![My Library with collections.](screenshots/OSX-ZS-4.0.8-collections.png)
+![My Library with collections.](screenshots/OSX-ZS-4-0-8-collections.png)
 
 Zotero's collections behave a little bit like tags: **My Library** always contains all your items, and each item can be part of any number of collections. Adding an item to a collection does not make a copy of the item. This is different from how folders work on Windows or OS X. Instead, think of playlists in programs like iTunes, where a single song can be part of multiple playlists.
 
@@ -45,7 +45,7 @@ To delete items in a collection, and delete them from your library, select one o
 
 Select an item in the center column and hold `Ctrl` (`Option` on OS X) to highlight the collections to which the item belongs.
 
-![The selected item belongs to the highlighted collections.](screenshots/OSX-ZS-4.0.8-collections-highlight.png)
+![The selected item belongs to the highlighted collections.](screenshots/OSX-ZS-4-0-8-collections-highlight.png)
 
 ##Special Collections
 
