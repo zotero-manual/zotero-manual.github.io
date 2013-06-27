@@ -1,17 +1,20 @@
 #Mastering Zotero
 
 ##Preface
+- Manual availability
+  - (license (BY-SA), free PDF/eBook, print copy for sale (buy a copy to support the authors and their work on Zotero and CSL))
 - About the authors
-- Target audience
 - Why we wrote the book
-- How the book is released (license (BY-SA), free PDF/eBook, print copy for sale)
+  - we think it's important to have up-to-date Zotero documentation available in print; smaller scope makes it easier to keep the manual up to date with latest Zotero release; some selfish reasons as well (many of our contributions are relatively invisibility; now can attach our name to a product, and hopefully sell a copy or two)
 
 ##Introduction
 - What is Zotero
-- Is Zotero the right tool for you? (discuss product landscape)
+- Is Zotero the right tool for you? (discuss product landscape, benefits open source)
+- Target audience of this manual
+  - new users, as an introduction text; existing users, to take full advantage of the features of Zotero; some advanced topics not covered (translator development, API, etc.)
 
 ##New Features per Version
-- for existing users: describe new features for each (major) Zotero version, and link to relevant entries in manual (would not be part of print edition?)
+- for existing users: describe new features for each (major) Zotero version, and link to relevant entries in manual
 
 ##Getting started
 - Zotero for Firefox vs. Zotero Standalone, choosing the right version
