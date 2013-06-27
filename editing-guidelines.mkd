@@ -11,3 +11,4 @@
 - mark up shortcuts as code, e.g. `Shift + Enter`.
 - mark up menu entries and button labels in double quotes, e.g. "press the 'Search' button"
 - include the icon for buttons after the text description, and in parentheses, e.g. "the Actions menu (…Actions menu icon…)"
+- screenshot file names should indicate the operating system, the software pictured, the Zotero version, and the topic (e.g. "OSX-ZS-4-0-8-tag-field.png" for a screenshot on OS X, about the tag field in Zotero Standalone 4.0.8)
