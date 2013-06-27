@@ -3,7 +3,8 @@ title: Adding Items
 layout: default
 ---
 
-#Chapter Contents
+**Chapter Contents**
+----------------
 * This will become a table of contents (this text will be scraped).
 {:toc}
 
