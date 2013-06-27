@@ -233,11 +233,11 @@ h1.header {
 	line-height: 1.3em;
 	border-bottom: none;
 	margin-top: 0;
+	color: #FFFFFF;
 }
 
-
-h1.header, a.header, a.name, header a{
-	color: #fff;
+a.header, a.name, header a{
+	color: #E13838;
 }
 
 a.header {
