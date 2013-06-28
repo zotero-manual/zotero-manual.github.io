@@ -3,6 +3,11 @@ title: Installing Zotero
 layout: default
 ---
 
+Chapter Contents
+----------------
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
 #Installing Zotero
 
 Zotero is available in several flavors. There are two versions of the desktop client: **Zotero for Firefox**, an add-on for the Firefox browser, and **Zotero Standalone**, a regular application that doesn't require Firefox to run. You can also access and edit your Zotero libraries on the [zotero.org](http://zotero.org) website. There are currently no official mobile Zotero apps, although there are several third-party apps.

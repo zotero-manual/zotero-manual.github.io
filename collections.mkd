@@ -3,6 +3,11 @@ title: Collections
 layout: default
 ---
 
+Chapter Contents
+----------------
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
 #Collections
 
 Collections help you organize your Zotero library. For instance, you can create a collection for each project you work on. Unlike tags, collections can be hierarchical: each collection can have one or more subcollections. When a collection is selected in the left-hand column, only the items in that collection are shown in the center column. And when you add items to your Zotero library, they are automatically added to the currently selected collection.

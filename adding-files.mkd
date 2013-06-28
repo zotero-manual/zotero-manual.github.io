@@ -3,6 +3,11 @@ title: Adding Files
 layout: default
 ---
 
+Chapter Contents
+----------------
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
 #Storing Files
 
 Zotero can not only help you organize items and notes, but files as well. A popular example is saving journal article PDFs as attachments to their Zotero items, but Zotero can be used to store files of any type.

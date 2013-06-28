@@ -3,6 +3,11 @@ title: Tags
 layout: default
 ---
 
+Chapter Contents
+----------------
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
 #Tags
 
 With Zotero you can add descriptive keywords, so-called *tags*, to items, files, links and notes. Together with collections, tags can help you organize your Zotero library.
