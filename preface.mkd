@@ -1,0 +1,40 @@
+---
+title: Preface
+layout: default
+---
+
+#Preface
+
+##Availability and Licensing
+
+The guide "Mastering Zotero" is released under the Creative Commons Attribution-ShareAlike 3.0 Unported license. The source materials for this guide will always be made freely available, as well as a formatted PDF version. The authors reserve the right to sell eBook and print versions.
+
+Even if you are reading a free version of this guide, consider purchasing a copy to thank the authors for their contributions to Zotero and the Citation Style Language.
+
+We would like to point out that the official Zotero documentation wiki is licensed under the more restrictive Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license. Since we wish to sell print copies of our guide, we made sure not to copy any material from the Zotero wiki. We both have made significant contributions to the Zotero wiki in the past, which can explain similarities in style and layout. Because of this license incompatibility, no material from this guide should be copied into the Zotero wiki, and vice versa.
+
+##About the Authors
+
+**Sebastian Karcher** …
+
+**Rintze M. Zelle** - I started using Zotero in 2007 during my PhD studies in biotechnology at Delft University of Technology in the Netherlands, after I had grown unhappy with the (commercial) reference manager available for our research group. The then newly released Zotero wasn't perfect either, but it had an attractive interface and showed a lot of promise. At that time I was also looking for an open source project to contribute to, and Zotero fit the bill perfectly for someone like me who had, and has, little programming experience. Soon I started a patchwork of contributions, covering bug reports, user forum support, user documentation, a now long-deprecated NSIS-based installer for Zotero's Word plugin (of which I once was very proud), web translators, Scaffold (a tool to write web translators), citation styles, translations to Dutch, and even a few code patches for the Zotero client itself.
+
+As I was using Zotero to write my scientific papers, I became aware of limitations in the Citation Style Language (CSL) styles used by Zotero. I joined the CSL project in 2008, and started advocating improvements to make CSL more useful for my work. Frank G. Bennett (the creator of MultiLingual Zotero and the citeproc-js CSL processor used by Zotero) soon joined. As Frank started his work on rewriting the CSL processor for Zotero, I started a close collaboration with Frank and Bruce D'Arcus (the creator of CSL) to push development forward. I wrote most of the project's documentation, including the CSL specification, designed new features, maintained the CSL schema as well as the various code repositories, and orchestrated the CSL releases. As CSL has matured, I now spend most time on accepting user contributions to the CSL style repository (and lately, on writing this guide).
+
+I currently work fulltime as a scientist in biotechnology at Mascoma Corporation in New Hampshire, where I try to metabolically engineer baker's yeast for improved biofuel production.
+
+##Why We Wrote This Book
+
+Zotero already has its own documentation, so why did we write this guide? Well, we had the following reasons:
+
+- Zotero has a small development team. While developers and users do contribute to the Zotero documentation wiki, this documentation has been lagging behind as new features have been added to Zotero. We will try to keep this guide more up-to-date.
+- Writing up-to-date documentation is quite a bit of work, but contributors to the Zotero documentation wiki are largely invisible. By writing our own guide, we have a chance of being noticed for our work.
+- We liked the idea of having full editorial control. By limiting the scope of the guide, and using a more consistent style, we hope to have created a guide that's easier and more enjoyable to read than the wiki.
+- We have written the guide in Markdown. This makes it relatively easy to produce guides in a wide ranges of formats, such as HTML, PDF, eBook and print versions.
+- We both have spent thousands of hours working on Zotero and CSL in our spare time. Selling print copies of this guide could give us a little income from our hobby.
+
+##Acknowledgments
+
+Due to their popularity and open source nature, Zotero and CSL both have a cast of thousands. We're especially indebted to Zotero-developers Dan Stillman and Simon Kornblith, CSL developer Bruce D'Arcus, and CSL/citeproc-js/MultiLingual Zotero developer Frank G. Bennett.
+
+We also would like to thank all contributors to the Zotero documentation wiki, from which we have drawn inspiration.
