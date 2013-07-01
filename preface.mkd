@@ -3,6 +3,10 @@ title: Preface
 layout: default
 ---
 
+Chapter Contents
+----------------
+{:toc}
+
 #Preface
 
 ##Availability and Licensing

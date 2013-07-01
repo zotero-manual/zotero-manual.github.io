@@ -5,7 +5,6 @@ layout: default
 
 Chapter Contents
 ----------------
-* This will become a table of contents (this text will be scraped).
 {:toc}
 
 #Tags
@@ -64,7 +63,7 @@ The search box at the bottom of the **Tag Selector** can be used to filter tags 
 
 By default, the **Tag Selector** only shows those tags that are present in the currently selected library or collection. To always show all the tags in the current library, even when a collection is selected, check the "Display All Tags in This Library" option in the **Actions** menu of the **Tag Selector**.
 
-##Hiding the **Tag Selector**
+##Hiding the Tag Selector
 
 If you (temporarily) don't need the **Tag Selector** and rather have more room in the right-hand column for your libraries and collections, you can minimize the **Tag Selector**. To do this, click, or drag down, the divider at the top of the **Tag Selector**. Alternatively, use the **Toggle Tag Selector** shortcut (by default: `Ctrl + Alt + T` (Windows), `Cmd + Shift + T` (OS X)).
 
