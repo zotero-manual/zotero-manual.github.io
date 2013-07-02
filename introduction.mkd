@@ -1,0 +1,46 @@
+---
+title: Introduction
+layout: default
+---
+
+Chapter Contents
+----------------
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
+#Introduction
+
+##What is Zotero?
+
+Curious about Zotero after hearing of it from a teacher, librarian, or fellow student? Wondering how Zotero can be useful to you, and whether it's worth a look?
+
+Zotero is a reference manager, designed to help you with your scholarly research. Zotero makes it easy to:
+
+- collect information about primary and secondary sources, such as journal articles, books, interviews, letter, maps, and movies. For a journal article, this information can include the article's title, its authors, the journal (and journal issue) in which the article appeared, the article's page numbers, its DOI, et cetera. You can often have Zotero save all information of a source (its metadata) with a single click.
+- catalog digital copies of sources. For example, you can save full-text PDFs of journal articles, audio and video recordings, and scans in Zotero, and link these files to their descriptions.
+- organize these sources and their descriptions using tags, collections, and saved searches.
+- keep your Zotero library synchronised between your computers, using Zotero Sync.
+- share your research privately or publically, and collaborate with others, using Zotero Groups.
+- add references to these sources in your writing. Zotero supports thousands of citations styles, and comes with plugins for Word and LibreOffice.
+
+##Is Zotero the Right Tool for You?
+
+Zotero is not the only reference manager on the market. Is Zotero the best choice for you? Do you even need a reference manager?
+
+###The Case for using a Reference Manager
+
+As with most software, there is a learning curve for reference managers. And for small projects, like writing a single paper, you probably can do without one. However, even early on in your career it's worth it to invest some time exploring their use. Knowing how to use reference managers is an important skill for any researcher. Reference managers can:
+
+- save you time
+- reduce the amount of errors in your work, especially when it comes to citation formatting
+- keep you organized, so you can manage large amounts of information
+- make it easier to keep synchronised among your devices, collaborate with others, and backup your work
+
+###Zotero versus the Competition
+
+- Is Zotero the right tool for you? (discuss product landscape (Mendeley, Papers, EndNote, comparison wikipedia page), benefits Zotero: open source, not owned by a publisher, best-in-class citation style support)
+
+##Our Target Audience for this Guide
+
+- Target audience of this manual
+  - new users, as an introduction text; existing users, to take full advantage of the features of Zotero; some advanced topics not covered (translator development, API, etc.)
