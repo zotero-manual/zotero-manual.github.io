@@ -1,15 +1,21 @@
 #Mastering Zotero
 
-##Preface
-- Manual availability
-  - (license (BY-SA), free PDF/eBook, print copy for sale (buy a copy to support the authors and their work on Zotero and CSL))
-- About the authors
-- Why we wrote the book
-  - we think it's important to have up-to-date Zotero documentation available in print; smaller scope makes it easier to keep the manual up to date with latest Zotero release; some selfish reasons as well (many of our contributions are relatively invisibility; now can attach our name to a product, and hopefully sell a copy or two)
-
+##Preface (Rintze and Sebastian: Draft)
+- Availability and Licensing
+- About the Authors
+- Why We Wrote This Book
+- Acknowledgments
+    
 ##Introduction
-- What is Zotero
-- Is Zotero the right tool for you? (discuss product landscape, benefits open source)
+- What is Zotero (target audience for the software; key features)
+  - Reference manager
+    - Tool to work with research objects: files (PDFs, audio recordings, scans) and/or their descriptions
+    - Collect these objects (web translators) 
+    - Organize (tags, collections)
+    - Keep synchronized between computers (sync)
+    - Collaborate and exchange this data with others (groups)
+    - Writing aid (citation styles, word processor plugins)
+- Is Zotero the right tool for you? (discuss product landscape (Mendeley, Papers, EndNote, comparison wikipedia page), benefits Zotero: open source, not owned by a publisher, best-in-class citation style support)
 - Target audience of this manual
   - new users, as an introduction text; existing users, to take full advantage of the features of Zotero; some advanced topics not covered (translator development, API, etc.)
 
