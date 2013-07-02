@@ -17,10 +17,21 @@
 - for existing users: describe new features for each (major) Zotero version, and link to relevant entries in manual
 
 ##Getting started
-- Zotero for Firefox vs. Zotero Standalone, choosing the right version
-- Installation (interface language)
-- Upgrading
-- Zotero interface (describe the main UI elements)
+
+###Installing Zotero (Rintze: draft)
+- Installing Zotero for Firefox
+  - Firefox version compatibility
+  - Word processor plugins
+- Installing Zotero Standalone
+  - Connectors
+  - Bookmarklet
+  - Word processor plugins
+- Installing Both Clients
+- Updating Clients
+- Troubleshooting
+
+###Zotero Client Interface
+(describe the main UI elements)
 
 ##Adding Items (Sebastian)
 - Migrating from other products
@@ -31,8 +42,15 @@
 - Import via identifiers
 - Import via PDF metadata
 
-##Adding Files
-- Links/copies
+##Adding Files (Rintze: draft)
+- File Copies and File Links
+  - File Links with Relative Paths
+- Adding Files via Web Translators
+- Adding Files via the Zotero Pane
+  - “New Item” Button
+  - “Add Attachment” Button and Menu
+  - Dragging Files
+- Adding Files from a Webpage
 
 ##Syncing
 - Item vs. file syncing, manual vs. automatic
@@ -45,7 +63,6 @@
 - Export formats (if leaving Zotero)
 
 ##Library Curation
-- Collections & (colored) tags
 - Related
 - Notes
 - Duplicates
@@ -57,6 +74,29 @@
  - Journal Abbreviations (with periods)
  - Item Language
  - URL as item metadata
+ 
+###Collections (Rintze: draft)
+- Creating, Renaming, and Deleting Collections
+- Moving and Copying Collections
+- Adding Items to a Collection
+- Removing Items from a Collection
+- Deleting Items in a Collection
+- Seeing which Collections an Item belongs to
+- Special Collections
+  - Saved Searches
+  - Duplicate Items
+  - Unfiled Items
+  - Trash
+
+###Tags (Rintze: draft)
+- Adding Tags
+  - Adding Tags by Hand
+  - Automatic Tags
+- Renaming, Deleting, and Merging Tags
+- Searching by Tags
+- Searching for Tags
+- Hiding the Tag Selector
+- Colored Tags
 
 ##Citations and Bibliographies (Sebastian)
 - ODFScanner 
