@@ -1,0 +1,67 @@
+---
+title: Citations, Bibliographies, and More
+layout: default
+---
+
+Chapter Contents
+----------------
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
+#Citations, Bibliographies, and More
+Zotero allows you to create citations and bibliographies from items in your library. Your option range from creating a bibliography on the fly, simply using drag & drop to sophisticated citations including ibid, supra notes, disambiguation etc. using word processor plugins. Zotero also provides you with options to view your items as reports or analyze them using a timeline or text-mining tools. 
+
+
+## The Quick Way: Citations directly from Zotero
+To create a bibliography for one or multiple Zotero items, simply select them in the center pane of Zotero, right-click, and select "Create Bibliography from Items". You can select multiple items using ```ctrl+click``` (Windows & Linux) / ```cmd+click``` (Mac) to add individual items to a selection or ```shift+click``` to select a range of items. You can also right-click on any collection and select "Create Bibliography from Collection". In the window that opens
+
+![Create Bibliography from Items](./screenshots/Windows-ZF-4-0-8-create-bibliography.png) 
+
+select the desired citation style. In most cases you will use "Bibliography" as the **Output Mode** and "Copy to Clipboard" as the **Output Method** &mdash; more an that momentarily. Zotero will then copy a formatted bibliography for the selected items in the selected citation style to your clipboard and you can paste it anywhere you want, e.g. to your word-processor of choice. Now let's take a closer look at some of the other options. 
+
+###Output Mode
+
+Each Zotero citation style has a form for citations &mdash; what would appear in the text at the location you insert a citation &mdash; and (with very few exceptions) for the bibliography. "Create Bibliography" defaults, unsurprisingly, to creating bibliographies, but you can switch the **Output Mode** to Citation/Notes (which of the two options is displayed depends on the citation style). Most commonly you will use this to create a full note as it would appear in a footnote, e.g. according to the *Chicago Manual of Style*. For example, a note for a book using the citation style "Chicago Manual of Style (full note)" would look like this:
+
+			Robert L Heilbroner, *The Worldly Philosophers: The Great Economic Thinkers*, 3rd revised Edition (London: Penguin Press, 1969).
+
+While its bibliography entry would be
+			
+			Heilbroner, Robert L. *The Worldly Philosophers: The Great Economic Thinkers*. 3rd revised Edition. London: Penguin Press, 1969.	
+
+Less typically, you can create in-text citations for such as (Heilbronner, 1969) by selecting "Citations" as **Output Mode** when using an author-date style such as "American Psychological Association 6th Edition". For numeric citation styles such as *Nature* or *IEEE* the "Citations" option is of little use, as it will just create numbers starting at 1. (For more on the different types of citation styles, see below). 
+
+###Output Method
+While copying to the clipboard is the most common output method, Zotero offers three other choices with distinct advantages.
+
+* Using "Save as RTF" you can save the bibliography as an RTF (Rich Text Format) file that any word-processor can display. This option is particularly useful if you're using styles with complicated formatting requirements, which includes most annotated styles as well as style that list authors on separate lines in the bibliography, such as "American Anthropological Association". Such formatting will often be lost or look incorrectly when using the clipboard. When you save a bibliography to RTF, it will be directly 
+
+* Using "Save as HTML" you can save the bibliography as an HTML file. You may wish to do this to include the bibliography in a webpage or in a blogpost, for example. What makes this particularly attractive is the fact that Zotero automatically embeds bibliographic information with the bibliography in COinS format. This way, anyone browsing the site using Zotero (as well as several other reference managers) will be able to import the items from the bibliography.
+
+* Using "Print" will send the HTML version of the bibliography to Firefox's "print function.
+
+## Quick Copy
+Creating citations and bibliographies can be even simpler using **Quick Copy**, especially if you're mainly using one citation style. To use quick copy, first set a "Default Output Format" in the **Export** tab of the Zotero preferences.
+
+![Selecting a default style for Quick Copy](./screenshots/Windows-ZF-4-0-8-default-output.png) 
+
+When you drag & drop items from Zotero to any word-processor or text editor (e.g. to an e-mail you're writing in your email client or webmail), they will appear as bibliography entries in the selected default style. If you want them to appear in the citation/note form of the style, hold the ```Shift``` key during the operations. Instead of drag and drop, you can also use keyboard shortcuts to copy bibliographies or citations to the clipboard. ```ctrl+alt+c``` (```cmd+shift+c``` on Mac) copies bibliography for the selected items to the clipboard (i.e. works like simple drag&drop), ```ctrl+alt+a``` (```cmd+shift+a``` on Mac) copies the citations/notes for the selected items to the clipboard (analog to drag+```shift``` & drop). As for all items in your keyboard you can the paste wherever you want using right-click --> "Paste" or ```ctrl+v``` (```cmd+v``` on Mac). The quick copy functionality is not limited to bibliographic styles: You can also use translators, e.g. to quickly drag&drop records in BibTeX format. Translators are listed at the bottom of the "Default Output" selection list.
+
+## Word processor plugins
+Once you are writing a longer document, the "quick and dirty" way to create citations and bibliographies will likely not be enough. You want Zotero to keep track of the items you have cited already, you want to be able to switch citation styles, and you want Zotero to deal with pesky details like "ibid.", different rules for subsequent citations, etc. Zotero has developed plugins that allow you to interface with it while using *LibreOffice* (as well as the closely related *OpenOffice* and *NeoOffice*) as well as *Microsoft Word* for both Windows and Mac. 
+
+### Shortcuts
+### Journal Abbreviations
+### Other Options
+### Classic Layout
+## RTF/ODF Scan
+
+## How to find citation styles
+
+## History of CSL
+
+## Editing CSL (?)
+
+## Reports
+
+## Timeline, Papermachine etc. 
