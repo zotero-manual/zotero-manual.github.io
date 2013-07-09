@@ -32,18 +32,18 @@ Zotero is not the only reference manager on the market. Is Zotero the best choic
 As with most software, there is a learning curve for reference managers. For small projects, like writing a single paper, you probably can do without one. However, even early on in your career it's worth it to invest some time exploring their use. Knowing how to use reference managers is an important skill for any researcher. Most reference managers can:
 
 - save you time
-  - quickly save source metadata to your reference manager.
-  - if you cite the same sources multiple times, you only have to check the metadata once.
-  - easily create citations and bibliographies from the sources in your reference manager library.
-  - switch citation styles in your manuscripts with a few clicks.
+    - quickly save source metadata to your reference manager.
+    - if you cite the same sources multiple times, you only have to check the metadata once.
+    - easily create citations and bibliographies from the sources in your reference manager library.
+    - switch citation styles in your manuscripts with a few clicks.
 - reduce the amount of errors in your work
-  - take advantage of automatic cite numbering and disambiguation.
+    - take advantage of automatic cite numbering and disambiguation.
 - keep you organized
-  - easily keep track of hundreds or even thousands of sources
-  - have your reference manager synchronise among your devices
-  - with your source metadata stored in a single location, backing up is easy
+    - easily keep track of hundreds or even thousands of sources
+    - have your reference manager synchronise among your devices
+    - with your source metadata stored in a single location, backing up is easy
 - make it easy to collaborate with others
-  - share the metadata of your sources
+    - share the metadata of your sources
 
 ###Zotero versus the Competition
 
