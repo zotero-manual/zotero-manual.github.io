@@ -6,18 +6,12 @@
 - Why We Wrote This Book
 - Acknowledgments
     
-##Introduction
-- What is Zotero (target audience for the software; key features)
-  - Reference manager
-    - Tool to work with research objects: files (PDFs, audio recordings, scans) and/or their descriptions
-    - Collect these objects (web translators) 
-    - Organize (tags, collections)
-    - Keep synchronized between computers (sync)
-    - Collaborate and exchange this data with others (groups)
-    - Writing aid (citation styles, word processor plugins)
-- Is Zotero the right tool for you? (discuss product landscape (Mendeley, Papers, EndNote, comparison wikipedia page), benefits Zotero: open source, not owned by a publisher, best-in-class citation style support)
-- Target audience of this manual
-  - new users, as an introduction text; existing users, to take full advantage of the features of Zotero; some advanced topics not covered (translator development, API, etc.)
+##Introduction (Rintze: Draft)
+- What is Zotero?
+- Is Zotero the Right Tool for You?
+  - The Case for using a Reference Manager
+  - Zotero versus the Competition
+- Our Target Audience for this Guide
 
 ##New Features per Version
 - for existing users: describe new features for each (major) Zotero version, and link to relevant entries in manual
