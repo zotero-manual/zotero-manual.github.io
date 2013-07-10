@@ -50,7 +50,70 @@ When you drag & drop items from Zotero to any word-processor or text editor (e.g
 ## Word processor plugins
 Once you are writing a longer document, the "quick and dirty" way to create citations and bibliographies will likely not be enough. You want Zotero to keep track of the items you have cited already, you want to be able to switch citation styles, and you want Zotero to deal with pesky details like "ibid.", different rules for subsequent citations, etc. Zotero has developed plugins that allow you to interface with it while using *LibreOffice* (as well as the closely related *OpenOffice* and *NeoOffice*) as well as *Microsoft Word* for both Windows and Mac. 
 
-### Shortcuts
+### The Zotero word processor toolbar
+After installing the word processor plugin, you will see a plugin bar with seven buttons
+
+![The Zotero toolbar in LibreOffice](./screenshots/Windows-ZF-4-0-8-libreoffice-toolbar.png) 
+
+There is no toolbar in Mac Word 2008
+**This table currently taken verbatim from dokuwiki, as it's 100% by Rintze. Check whether that's OK**
+<table>
+	<tr class="row0">
+		<th class="col0"> Zotero Insert Citation </th>
+		<td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-insert-citation.png" class="media" alt="" /> </td>
+		<td class="col2"> Insert a new citation in your document at the cursor location. </td>
+	</tr>
+	<tr class="row1">
+		<th class="col0"> Zotero Edit Citation </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-edit-citation.png" class="media" alt="" /> </td><td class="col2"> Edit an existing citation. You have to place the cursor inside the relevant citation before pressing this icon. </td>
+	</tr>
+	<tr class="row2">
+		<th class="col0"> Zotero Insert Bibliography </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-insert-bib.png" class="media" alt="" /> </td><td class="col2"> Insert a bibliography at the cursor location. </td>
+	</tr>
+	<tr class="row3">
+		<th class="col0"> Zotero Edit Bibliography </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-edit-bib.png" class="media" alt="" /> </td><td class="col2"> Edit an existing bibliography. </td>
+	</tr>
+	<tr class="row4">
+		<th class="col0"> Zotero Refresh </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-refresh.png" class="media" alt="" /> </td><td class="col2"> Refresh all citations and the bibliography, updating any item metadata that has changed in your Zotero library. </td>
+	</tr>
+	<tr class="row5">
+		<th class="col0"> Zotero Set Doc Prefs </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-doc-prefs.png" class="media" alt="" /> </td><td class="col2"> Open the Document Preferences window, e.g. to change the citation style. </td>
+	</tr>
+	<tr class="row6">
+		<th class="col0"> Zotero Remove Codes </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-remove-field-codes.png" class="media" alt="" /> </td><td class="col2"> Remove Zotero field codes from the document. When Zotero inserts a citation or bibliography, it does so by using a field code. This field code allows Zotero to later recognize and automatically update the citation or bibliography (e.g., in numeric styles, citations have often to be renumbered when additional items are cited). Removing the Zotero field codes prevents any further automatic updates of the citations and bibliographies.<br/>
+Note that removing field codes is <strong>irreversible</strong>, and should usually only be done in a near-final copy of your document. </td>
+	</tr>
+</table>
+
+### Using the quick format bar
+When you click the "Insert Citation" button for the first time in a document, Zotero opens the **Document Preferences**, where you can select the citation style you want to use in your document. You can change the citation style at any point later by clicking the "Set Document Preferences" button. We will discuss the document preferences in more detail below.
+
+Once you have selected a citation style (and every subsequent time you click "Insert Citation") the **Quick-format** box, a red-rimmed search-box, opens. When you type into the box, Zotero runs a creator-title-year search of your libraries (that is your libary and all groups you belong to) and displays the results.
+
+![The Zotero Quick Format bar](./screenshots/Windows-libreoffice-4-0-8-quick-format-citationbar.png) 
+
+Simply select a citation by clicking on it, then press ```Enter``` and Zotero will insert the correctly formatted citation into your document. If you would like to insert multiple citations, such as (Smith, 1776; Marx, 1867), continue typing after selecting the first reference. Note that different from e.g. EndNote, Zotero will *not* merge adjacent citations. You need to insert them together. This also applies to numeric citations such as Vancouver style to create citations such as [1-3].
+
+![Adding multiple citations](./screenshots/Windows-libreoffice-4-0-8-quick-format-multi-citations.png) 
+
+Frequently you may want to add details to a citations, such as a comment before or after a citations or a page range such as (cf. Smith, 1776, pp. 45-48 for an early statement). In those cases click on the citation quick format bar to open a pop-up that allows you to enter that information in fields for "prefix", "suffix", "locators". We use "locator" to describe the various way the location of a reference within a work can be described. The most common locator and the default setting of the quick format bar is a page or a page range; other common locators are the chapter or the paragraph a citation can be found in.   
+
+![Adding citation details](./screenshots/Windows-libreoffice-4-0-8-quick-format-details.png)
+
+Citation details can be added for each item in a citation individually, so you can create complex citations such as (cf. Smith, 1776 pp. 46-48; and contrast with Marx, 1867, pp. 1-3) and even lengthy footnotes just using prefix and suffix. Why should you use the prefix/suffix fields to add information to citations rather than just adding it in your word processor? On every future occasion, when Zotero tries to update citations, e.g. when you change a citation style or if you have corrected item data in Zotero, it can automatically create the correct citation using the information in the prefix/suffix field. If, however, you have manually edited the citation (that is, used your word processor to directly add or delete parts of the citation) it is no longer able to do so. Instead, it throws a warning for each manually edited citation that you can either discard all your manual changes, or maintain the citation as is, which will prevent any further updates of that citation (citation style changes, data changes in Zotero, etc.). 
+
+![**This figure still missing**](./screenshots/Windows-libreoffice-4-0-8-manual-edit-warning.png)
+
+For author-date styles, a common form of citation includes the author's name in the text, followed by only the year (and, possibly, locators) in prentheses, e.g. "as Smith (1776) first pointed out". Zotero has the "Suppress Author" checkbox you can see in screenshot above. Type the name(s) of the author(s) ("Smith" in our example) in your word processor, then insert the citation and check the "Suppress Author" box to get "Smith (1776)". The logic behind this implementation is straightforward: Any part of the citation that is gramatically part of the sentence should by typed inthe word processor.
+
+Many author-date styles require items within a single citation to be sorted according to specific rules, typically either alphabetically or chronologically. Zotero rearranges citations you enter to automatically conform to these rules. On occasion, you may want to disable this feature for a citation to maintain the order of items and prevent automatic sorting. To do so, click on the small arrow at the left of the quick format bar and unselect "Keep Sources Cited".
+
+ ![Uncheck the "Keep Sources Cited" option](./screenshots/Windows-libreoffice-4-0-8-keep-sourced-cited.png)
+
+
+### Keyboard Shortcuts in Quick Format
+A key design concept of the quick format bar is to allow you to use it without ever lifting your hands off the keyboard. As a first step, set-up keyboard shortcuts for your word processor. In Word for Mac, you can already see the shortcuts listed next to the respective commands in the Apple Script Menu. In Word for Windows .... In LibreOffice...
+Once you have opened the **Quick Format** bar, type
+
 ### Journal Abbreviations
 ### Other Options
 ### Classic Layout
