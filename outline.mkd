@@ -31,7 +31,7 @@
 - Troubleshooting
 
 ###Zotero Client Interface
-(describe the main UI elements)
+(describe the main UI elements of Zotero Standalone and Zotero for Firefox)
 
 ##Adding Items (Sebastian)
 - Migrating from other products
@@ -52,14 +52,17 @@
   - Dragging Files
 - Adding Files from a Webpage
 
-##Syncing
-- Item vs. file syncing, manual vs. automatic
-- Zotero Storage
-- WebDAV
+##Syncing (Rintze)
+- Data Syncing
+- File Syncing
+  - Zotero Storage
+  - WebDAV
+- Conflict Resolution
+- Third-Party Solutions (Dropbox)
 
 ##Backup & Export
 - Sync no substitute for backup
-- Zotero data directory (warn against Dropbox)
+- Zotero data directory (warn again against Dropbox)
 - Export formats (if leaving Zotero)
 
 ##Library Curation
