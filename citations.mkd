@@ -23,11 +23,11 @@ select the desired citation style. In most cases you will use "Bibliography" as 
 
 Each Zotero citation style has a form for citations &mdash; what would appear in the text at the location you insert a citation &mdash; and (with very few exceptions) for the bibliography. "Create Bibliography" defaults, unsurprisingly, to creating bibliographies, but you can switch the **Output Mode** to Citation/Notes (which of the two options is displayed depends on the citation style). Most commonly you will use this to create a full note as it would appear in a footnote, e.g. according to the *Chicago Manual of Style*. For example, a note for a book using the citation style "Chicago Manual of Style (full note)" would look like this:
 
-			Robert L Heilbroner, *The Worldly Philosophers: The Great Economic Thinkers*, 3rd revised Edition (London: Penguin Press, 1969).
+Robert L Heilbroner, *The Worldly Philosophers: The Great Economic Thinkers*, 3rd revised Edition (London: Penguin Press, 1969).
 
 While its bibliography entry would be
 			
-			Heilbroner, Robert L. *The Worldly Philosophers: The Great Economic Thinkers*. 3rd revised Edition. London: Penguin Press, 1969.	
+Heilbroner, Robert L. *The Worldly Philosophers: The Great Economic Thinkers*. 3rd revised Edition. London: Penguin Press, 1969.	
 
 Less typically, you can create in-text citations for such as (Heilbronner, 1969) by selecting "Citations" as **Output Mode** when using an author-date style such as "American Psychological Association 6th Edition". For numeric citation styles such as *Nature* or *IEEE* the "Citations" option is of little use, as it will just create numbers starting at 1. (For more on the different types of citation styles, see below). 
 
@@ -60,26 +60,26 @@ There is no toolbar in Mac Word 2008
 <table>
 	<tr class="row0">
 		<th class="col0"> Zotero Insert Citation </th>
-		<td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-insert-citation.png" class="media" alt="" /> </td>
+		<td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-insert-citation.png"  alt="" /> </td>
 		<td class="col2"> Insert a new citation in your document at the cursor location. </td>
 	</tr>
 	<tr class="row1">
-		<th class="col0"> Zotero Edit Citation </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-edit-citation.png" class="media" alt="" /> </td><td class="col2"> Edit an existing citation. You have to place the cursor inside the relevant citation before pressing this icon. </td>
+		<th class="col0"> Zotero Edit Citation </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-edit-citation.png"  alt="" /> </td><td class="col2"> Edit an existing citation. You have to place the cursor inside the relevant citation before pressing this icon. </td>
 	</tr>
 	<tr class="row2">
-		<th class="col0"> Zotero Insert Bibliography </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-insert-bib.png" class="media" alt="" /> </td><td class="col2"> Insert a bibliography at the cursor location. </td>
+		<th class="col0"> Zotero Insert Bibliography </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-insert-bib.png"  alt="" /> </td><td class="col2"> Insert a bibliography at the cursor location. </td>
 	</tr>
 	<tr class="row3">
-		<th class="col0"> Zotero Edit Bibliography </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-edit-bib.png" class="media" alt="" /> </td><td class="col2"> Edit an existing bibliography. </td>
+		<th class="col0"> Zotero Edit Bibliography </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-edit-bib.png"  alt="" /> </td><td class="col2"> Edit an existing bibliography. </td>
 	</tr>
 	<tr class="row4">
-		<th class="col0"> Zotero Refresh </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-refresh.png" class="media" alt="" /> </td><td class="col2"> Refresh all citations and the bibliography, updating any item metadata that has changed in your Zotero library. </td>
+		<th class="col0"> Zotero Refresh </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-refresh.png"  alt="" /> </td><td class="col2"> Refresh all citations and the bibliography, updating any item metadata that has changed in your Zotero library. </td>
 	</tr>
 	<tr class="row5">
-		<th class="col0"> Zotero Set Doc Prefs </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-doc-prefs.png" class="media" alt="" /> </td><td class="col2"> Open the Document Preferences window, e.g. to change the citation style. </td>
+		<th class="col0"> Zotero Set Doc Prefs </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-doc-prefs.png"  alt="" /> </td><td class="col2"> Open the Document Preferences window, e.g. to change the citation style. </td>
 	</tr>
 	<tr class="row6">
-		<th class="col0"> Zotero Remove Codes </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-remove-field-codes.png" class="media" alt="" /> </td><td class="col2"> Remove Zotero field codes from the document. When Zotero inserts a citation or bibliography, it does so by using a field code. This field code allows Zotero to later recognize and automatically update the citation or bibliography (e.g., in numeric styles, citations have often to be renumbered when additional items are cited). Removing the Zotero field codes prevents any further automatic updates of the citations and bibliographies.<br/>
+		<th class="col0"> Zotero Remove Codes </th><td class="col1"> <img src="/screenshots/Windows-ZF-4-0-8-libreoffice-toolbar-remove-field-codes.png"  alt="" /> </td><td class="col2"> Remove Zotero field codes from the document. When Zotero inserts a citation or bibliography, it does so by using a field code. This field code allows Zotero to later recognize and automatically update the citation or bibliography (e.g., in numeric styles, citations have often to be renumbered when additional items are cited). Removing the Zotero field codes prevents any further automatic updates of the citations and bibliographies.<br/>
 Note that removing field codes is <strong>irreversible</strong>, and should usually only be done in a near-final copy of your document. </td>
 	</tr>
 </table>
@@ -91,7 +91,7 @@ Once you have selected a citation style (and every subsequent time you click "In
 
 ![The Zotero Quick Format bar](./screenshots/Windows-libreoffice-4-0-8-quick-format-citationbar.png) 
 
-Simply select a citation by clicking on it, then press ```Enter``` and Zotero will insert the correctly formatted citation into your document. If you would like to insert multiple citations, such as (Smith, 1776; Marx, 1867), continue typing after selecting the first reference. Note that different from e.g. EndNote, Zotero will *not* merge adjacent citations. You need to insert them together. This also applies to numeric citations such as Vancouver style to create citations such as [1-3].
+Simply select a citation by clicking on it, then press ```Enter``` and Zotero will insert the correctly formatted citation into your document. When you use a note-based style, Zotero will create a footnote or endnote and include the required information. If you would like to insert multiple citations, such as (Smith, 1776; Marx, 1867), continue typing after selecting the first reference. Note that different from e.g. EndNote, Zotero will *not* merge adjacent citations. You need to insert them together. This also applies to numeric citations such as Vancouver style to create citations such as [1-3].
 
 ![Adding multiple citations](./screenshots/Windows-libreoffice-4-0-8-quick-format-multi-citations.png) 
 
@@ -119,9 +119,19 @@ Once you have opened the **Quick Format** bar, search for the item you want to c
 ### Journal Abbreviations
 Many publishers in the sciences and medicine require journal titles to appear abbreviated. Zotero supports journal abbreviations in two different ways: via a built-in list of journal and word abbreviations and via a dedicated "Journal Abbr." field. Zotero defaults to the former. When you use a citation style that requires abbreviated journal titles, Zotero automatically generates journal abbreviations using the information in the **Publication** field of items. It first compares them to a list of journal titles from *PubMed*, then a list of words, and finally an algorithm for abbreviations according to ISO norms. The citation style determines whether these abbreviations will appear with or without periods (J. Natl. Cancer Inst. vs J Natl Cancer Inst). In most cases this is the most reliable method for handling journal abbreviations. *Currently this method only works in the word processor plugins*.
 
-Alternatively, Zotero can use the information in the **Journal Abbr.** field of journal items. To use this option, click on "Set Document Preferences" in the word processor plugin and uncheck the "Automatically Abbreviate Journal Titles" box. Some import translators will include this information or you can add it manually. Where no journal abbreviation is given, Zotero defaults to the publication title. Ideally journal abbreviations entered in Zotero should include periods, as citation styles will remove them where required, but cannot add them. 
+Alternatively, Zotero can use the information in the **Journal Abbr.** field of journal items. To use this option, click on "Set Document Preferences" in the word processor plugin and uncheck the "Automatically Abbreviate Journal Titles" box (the option only appears for styles with abbreviated journal titles). Some import translators will include this information or you can add it manually. Where no journal abbreviation is given, Zotero defaults to the publication title. Ideally journal abbreviations entered in Zotero should include periods, as citation styles will remove them where required, but cannot add them. *This is the only option for abbreviations in any bibliography not created with the word processor plugin*
 
-### Other Options
+### Other Word Processor Plugin Settings
+Under "Set Document" Preference" you can, at any time, change the citation style of your document. As Zotero handles citations inserted as footnotes, you can even switch between note-based and other citations style with one click (though this typically requires some clean-up, e.g. for the placement of citations). You also have access to some advanced settings. Not all of these options are shown for every style - Zotero displays only applicable options. 
+![The Zotero Document Preferences](./screenshots/Windows-libreoffice-4-0-9-document-preferences.png)
+
+* Footnotes and Endnotes (note-based styles). While Zotero does create the footnote, it does so simply by passing a "create footnote" command on to your word processor, so any issue relating to footnotes such as the format of the footnote anchor number or whether to use Arabic or Roman number for footnotes needs to be set in your word processor.
+
+* Bookmarks and Fields(Word)/Reference Marks(LibreOffice). By default, Zotero includes citations in Word Fields and LibreOffice Reference Marks. These formats are particularly versatile and all but impossible to corrupt. Unfortunately, they are not supported across-applications: Neither does Word read Reference Marks in .odt documents, nor does LibreOffice read Fields in .doc or .docx documents. Worse still, saving a document with Reference Marks as .doc(x) in LibreOffice removes all Zotero informations, effectively working like "Remove Field Codes". In order for Word and LibreOffice users to collaborate, they should switch the format to "Bookmarks" and save files as .doc. Bookmarks do not allow for note-based styles in LibreOffice. They are also somewhat easier to corrupt, so you should keep careful back-ups for various versions of your files.
+
+* Store references in document. With this option checked (the default) Zotero saves all (citation-relevant) information for cited items in the document (in a format called CSL-JSON). This is particularly useful when collaborating, as your co-author will not need access to the same library you used when citing an item. Without the option checked, Zotero would throw an error, warning that "This item is no longer in your library". If possible, though, we strongly recommend you use shared libraries, i.e. groups, for collaboration. Relying on references stored in the document means that only the author who originally inserted a citation can update its contents via Zotero. It also requires significant discipline by authors to prevent duplicates - two citations to the same item from different libraries, which Zotero treats as separate items.   
+
+
 ### Classic Layout
 ## RTF/ODF Scan
 
