@@ -11,3 +11,5 @@
 /sample.pdf
 /templates/*
 /styles/*
+/Gemfile
+/Gemfile.lock
