@@ -32,15 +32,23 @@
 
 ###Zotero Client Interface
 (describe the main UI elements of Zotero Standalone and Zotero for Firefox)
+- Languages (does this need its own chapter, or put it in other sections?)
+	- Interface language
+	- Where are translations done (Transifex, CSL locales)
+	- Bibliography language (default-locale)
+- Locate
 
 ##Adding Items (Sebastian)
 - Migrating from other products
 - Save via translators
 - Manual entry
+ - Rich text markup (missing)
+ - URL as item metadata (missing)
 - Saving webpages
 - Import export files
 - Import via identifiers
 - Import via PDF metadata
+- Proxies (missing)
 
 ##Adding Files (Rintze: draft)
 - File Copies and File Links
@@ -59,6 +67,7 @@
   - WebDAV
 - Conflict Resolution
 - Third-Party Solutions (Dropbox)
+- Zotfile for moving files (
 
 ##Backup & Export
 - Sync no substitute for backup
@@ -68,15 +77,10 @@
 ##Library Curation
 - Related
 - Notes
+- Zotfile extraction
 - Duplicates
 - Search
 - Sorting
-- Prepare to cite!
- - Sentence case/Title Case
- - Rich text markup
- - Journal Abbreviations (with periods)
- - Item Language
- - URL as item metadata
  
 ###Collections (Rintze: draft)
 - Creating, Renaming, and Deleting Collections
@@ -105,31 +109,34 @@
 - ODFScanner 
 - Word Processor Plugins
 - BibTeX integration
-- CSL styles, installing/editing/etc.
 - Quickcopy
 - Reports
+- Timelines (incomplete)
+- Papermachine (missing)
+
+## CSL styles, installing/editing/etc. (Sebastian - not started)
+- Brief History of CSL
+- Finding Styles - Zotero Style Repository/Search by Example
+- Installing Styles
+- Very easy edits
 
 ##Collaboration
 - Groups
+ - Creating groups
+ - use case for different group types
+ - Group settings online
+ - Collaborating in groups
+ - Adding items to groups - limits
 - Sharing single account
-
-##Languages (does this need its own chapter, or put it in other sections?)
-- Interface language
-- Where are translations done (Transifex, CSL locales)
-- Bibliography language (default-locale)
-- MLZ
-
-##Miscellaneous (where does this stuff go?)
-- Locate
-- Proxies
-- Timelines
+- Co-authoring without groups
 
 ##Zotero Preferences (Sebastian)
 
-##Zotero Plugins
-- Zotfile
-
-##Online Library
+##Online Library/Interface
 
 ##Zotero for mobile
-- Zandy
+- Zotero mobile webpage
+- ZotFile Tablet
+- Zandy?
+- ZotPad and Papership
+
