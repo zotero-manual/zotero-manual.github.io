@@ -107,6 +107,7 @@ On the flipside, several citation styles used with Zotero (including the various
 ###Some Other Tips on Manual Data Entry
 * You can use the `Tab` key to get to the next field (`Shift+Tab` for the previous field)
 * You can input dates in multiple formats. Zotero recognizes 1990-10-3, 10-3-1990, 10/3/1990, October 3, 1990, Oct. 3, 1990 and several other combinations. The letters "y m d" behind the date field ![YMD](./screenshots/Ubuntu-ZF-3-0-11-date-ymd.png) indicate that Zotero recognizes all three components (Year, Month, Day) of the date. Zotero displays them in the order it recognizes the date items, i.e. Oct. 3, 1990 will be followed by "MDY". For dates with only a month and a year Zotero displays "YM," etc. For both the "Date" and the "Date Accessed" field, Zotero also accepts "yesterday," "today," and "tomorrow" as input and converts them automatically to the correct date.
+* If your item has no date, Zotero will accept "n.d." for "not dated." Zotero does not currently handle approximate dates well ("[1914]", "ca. 1920"), and most of its citation style files will not render approximate dates appropriately. 
 * For several fields, including **creators**, **Book Title/Publication**, **Publisher**, and **Place**, Zotero offers auto-complete options from items in your library when you start typing.
 
 
