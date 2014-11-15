@@ -9,7 +9,7 @@ Chapter Contents
 {:toc}
 
 #Adding Items
-There are many ways to get items into Zotero. If you become a frequent users, you are like to use most, if not all of them. The different methods have different advantages and disadvantages and being aware of them will help you. In rough order or priority, you can add items
+There are many ways to get items into Zotero. If you become a frequent users, you are likely to use most, if not all of them. The different methods have different advantages and disadvantages and being aware of them will help you. In rough order or priority, you can add items
 
 
 1. using website translators via the Icon in the URL bar
