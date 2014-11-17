@@ -28,20 +28,20 @@ For single items (i.e. all icons except the manila folder), Zotero will then imp
 
 ![translator bubble](./screenshots/Ubuntu-ZF-4-0-8-translator-bubble.png) 
 
-at the bottom right of the screen will let you know that Zotero has successfully imported the item, into which collection (if any) the item is placed, and which attachments are  When you click the folder icon, Zotero will present you with a selection dialog with the title of all items it recognizes on the site &mdash; e.g. the search results of a catalog or the table of contents of a journal. 
+at the bottom right of the screen will let you know that Zotero has successfully imported the item, into which collection (if any) the item is placed, and which attachments are  When you click the folder icon, Zotero will present you with a selection dialog with the title of all items it recognizes on the site&mdash;e.g. the search results of a catalog or the table of contents of a journal. 
 
 ![Translator Selection Dialog for Multiple Items](./screenshots/Ubuntu-ZF-3-0-11-multiple-dialog.png) 
 
 Select all items you want to import and click OK (or press return) and Zotero will import all selected items, again informing you via the gray pop-up about the items it imports. 
 
 ###Automatic Tags and Attachments
-For many sites, Zotero takes a snapshot of the current site, or, in the case of newspapers or magazines, often of the single page or print view of an article. For most academic journals and article databases (such as EBSCO or JSTOR), Zotero attempts to download and attach a copy of the full text of an article as a PDF. This will only work where you have access to the full text PDF through your institution &mdash; either by logging in to a proxy while accessing the resource from off-campus or by IP recognition on campus or via Virtual Private Network (VPN). *PDF attachment for proxied resources is less reliable for the connectors than for Zotero Standalone.* Where Zotero tries but fails to download an attachment (typically a PDF file), it displays a red X in front the attachment.
+For many sites, Zotero takes a snapshot of the current site, or, in the case of newspapers or magazines, often of the single page or print view of an article. For most academic journals and article databases (such as EBSCO or JSTOR), Zotero attempts to download and attach a copy of the full text of an article as a PDF. This will only work where you have access to the full text PDF through your institution&mdash;either by logging in to a proxy while accessing the resource from off-campus or by IP recognition on campus or via Virtual Private Network (VPN). *PDF attachment for proxied resources is less reliable for the connectors than for Zotero Standalone.* Where Zotero tries but fails to download an attachment (typically a PDF file), it displays a red X in front the attachment.
 
 ![Translator pop-up for failed PDF download](./screenshots/Ubuntu-ZF-4-0-8-translator-bubble-no-pdf.png) 
 
 As far as they are available, Zotero automatically adds any keywords or subject terms on the translated page as tags. 
 
-You can toggle all three of these options &mdash; attaching snapshots, attaching PDFs, and associating tags &mdash; off and on in the **General** tab of the Zotero preferences.
+You can toggle all three of these options&mdash;attaching snapshots, attaching PDFs, and associating tags&mdash;off and on in the **General** tab of the Zotero preferences.
 
 ###Generic Translators
 While most translators are tied to specific URLs or URL patterns, Zotero has four translators that try to find items on any site. We call these "generic" translators. While they greatly extend the number of sites Zotero works on, they are somewhat less reliable and often data is of lower quality. For that reason, Zotero always prefers a specific to a generic translator. Where it does not find a site-specific translator, it runs through the generic translators in the following order
@@ -63,13 +63,13 @@ You can tell which translator Zotero uses on any given site by hovering (without
 ![translator select](./screenshots/Ubuntu-ZF-3-0-11-translator-select.png). 
 
 ##Manually Adding Items
-No one likes inputting references manually, but at times &mdash; e.g. for primary sources from an archive &mdash; you may still have to. Moreover, frequently items imported in Zotero need manual touching up and it is helpful to understand manual data entry for that purpose.
+No one likes inputting references manually, but at times&mdash;e.g. for primary sources from an archive&mdash;you may still have to. Moreover, frequently items imported in Zotero need manual touching up and it is helpful to understand manual data entry for that purpose.
 
 To create a new item, click on the "New Item" button in the Zotero toolbar.
 
  ![New Item](./screenshots/Ubuntu-ZF-3-0-11-create-new-item.png) 
 
-A context menu with the last five item types you have selected will appear. Under "More" at the bottom of the context menu you can select any of the item types available for Zotero (with the exception of "Webpage" &mdash; on that see below). Once you have selected the desired item type, an empty item will appear in the right hand panel. You can then click on any field and type in data or copy&paste it, e.g. from another document. 
+A context menu with the last five item types you have selected will appear. Under "More" at the bottom of the context menu you can select any of the item types available for Zotero (with the exception of "Webpage"&mdash;on that see below). Once you have selected the desired item type, an empty item will appear in the right hand panel. You can then click on any field and type in data or copy&paste it, e.g. from another document. 
 
 ![An Empty Item in the Right Hand Panel](./screenshots/Ubuntu-ZF-3-0-11-empty-item.png)
 
@@ -85,7 +85,7 @@ To add another creator, you can either click on the round plus sign (![Add Autho
 
 ![Author Role](./screenshots/Ubuntu-ZF-4-0-8-author-role.png) 
 
-Available creator roles depend on the item type. While the order in which given creator *types* are entered does not affect citations &mdash; e.g. it does not matter whether editors or authors are listed first for a chapter &mdash; the order in which creators of a given type are listed is reflected in citations. You can move a creator up or down in the list using the **Move Up** and **Move Down** options in the same menu.
+Available creator roles depend on the item type. While the order in which given creator *types* are entered does not affect citations&mdash;e.g. it does not matter whether editors or authors are listed first for a chapter&mdash;the order in which creators of a given type are listed is reflected in citations. You can move a creator up or down in the list using the **Move Up** and **Move Down** options in the same menu.
 
 **Example:** To add a chapter from an edited volume, select the item type "Book Section." Input the chapter author(s) as "Author," the book's editor(s) as "Editor." Use "Title" for the chapter title and "Book Title" for the title of the book. Include all other relevant publication information (Publisher, Place, Date, Edition, etc.).
  
