@@ -9,7 +9,7 @@ Chapter Contents
 {:toc}
 
 #Adding Items
-There are many ways to get items into Zotero. If you become a frequent users, you are likely to use most, if not all of them. The different methods have different advantages and disadvantages and being aware of them will help you. In rough order or priority, you can add items
+There are many ways to get items into Zotero. If you become a frequent user, you are likely to use most, if not all of them. The different methods have different advantages and disadvantages and being aware of them will help you. In rough order or priority, you can add items
 
 
 1. using website translators via the Icon in the URL bar
@@ -28,14 +28,14 @@ For single items (i.e. all icons except the manila folder), Zotero will then imp
 
 ![translator bubble](./screenshots/Ubuntu-ZF-4-0-8-translator-bubble.png) 
 
-at the bottom right of the screen will let you know that Zotero has successfully imported the item, into which collection (if any) the item is placed, and which attachments are  When you click the folder icon, Zotero will present you with a selection dialog with the title of all items it recognizes on the site - e.g. the search results of a catalog or the table of contents of a journal. 
+at the bottom right of the screen will let you know that Zotero has successfully imported the item, into which collection (if any) the item is placed, and which attachments are  When you click the folder icon, Zotero will present you with a selection dialog with the title of all items it recognizes on the site &mdash; e.g. the search results of a catalog or the table of contents of a journal. 
 
 ![Translator Selection Dialog for Multiple Items](./screenshots/Ubuntu-ZF-3-0-11-multiple-dialog.png) 
 
 Select all items you want to import and click OK (or press return) and Zotero will import all selected items, again informing you via the gray pop-up about the items it imports. 
 
 ###Automatic Tags and Attachments
-For many sites, Zotero takes a snapshot of the current site, or, in the case of newspapers or magazines, often of the single page or print view of an article. For most academic journals and article databases (such as EBSCO or JSTOR), Zotero attempts to download and attach a copy of the full text of an article as a PDF. This will only work where you have access to the full text PDF through your institution - either by logging in to a proxy while accessing the resource from off-campus or by IP recognition on campus or via Virtual Private Network (VPN). *PDF attachment for proxied resources is less reliable for the connectors than for Zotero Standalone.* Where Zotero tries but fails to download an attachment (typically a PDF file), it displays a red X in front the attachment.
+For many sites, Zotero takes a snapshot of the current site, or, in the case of newspapers or magazines, often of the single page or print view of an article. For most academic journals and article databases (such as EBSCO or JSTOR), Zotero attempts to download and attach a copy of the full text of an article as a PDF. This will only work where you have access to the full text PDF through your institution &mdash; either by logging in to a proxy while accessing the resource from off-campus or by IP recognition on campus or via Virtual Private Network (VPN). *PDF attachment for proxied resources is less reliable for the connectors than for Zotero Standalone.* Where Zotero tries but fails to download an attachment (typically a PDF file), it displays a red X in front the attachment.
 
 ![Translator pop-up for failed PDF download](./screenshots/Ubuntu-ZF-4-0-8-translator-bubble-no-pdf.png) 
 
@@ -69,7 +69,7 @@ To create a new item, click on the "New Item" button in the Zotero toolbar.
 
  ![New Item](./screenshots/Ubuntu-ZF-3-0-11-create-new-item.png) 
 
-A context menu with the last five item types you have selected will appear. Under "More" at the bottom of the context menu you can select any of the item types available for Zotero (with the exception of "Webpage" &mdash; on that see below). Once you have selected the desired item type, an empty item will appear in the right hand panel  You can then click on any field an type in data or copy&paste it, e.g. from another document. 
+A context menu with the last five item types you have selected will appear. Under "More" at the bottom of the context menu you can select any of the item types available for Zotero (with the exception of "Webpage" &mdash; on that see below). Once you have selected the desired item type, an empty item will appear in the right hand panel. You can then click on any field and type in data or copy&paste it, e.g. from another document. 
 
 ![An Empty Item in the Right Hand Panel](./screenshots/Ubuntu-ZF-3-0-11-empty-item.png)
 
@@ -102,7 +102,7 @@ For correct citation output in all styles, Zotero recommends storing titles in "
 
 This conversion is rather crude and does not deal correctly with proper nouns and capitals after punctuation, but it will still save you a lot of time.
 
-On the flipside, several citation styles used with Zotero (including the various *Chicago Manual of Style* variants and *Modern Language Association*) automatically convert titles to "title case," or "headline capitalization," i.e. all words except prepositions and select conjunctions are capitalized (see the *Chicago Manual's* 16h edition [8.157](http://www.chicagomanualofstyle.org/16/ch08/ch08_sec157.html) for details). While required for English titles, this will incorrectly render non-English titles (e.g. *Die Leiden Des Jungen Werther*). To disable automatic title-casing for any individual item, include its language in the **Language** field. Any combination of letter that does not begin with "en" disables automatic title-casing, but when entering languages manually, we recommend using ISO two-letter language-country codes (according to ISO [639-1](http://www.loc.gov/standards/iso639-2/php/code_list.php) and [3166](http://en.wikipedia.org/wiki/ISO_3166-1#Current_codes), such as *es-AR* for Argentine Spanish, *fr-FR* for French French, or *de-CH* for Swiss German. Using standardized language codes may prove useful as Zotero comes to include more language specific features in future versions. 
+On the flipside, several citation styles used with Zotero (including the various *Chicago Manual of Style* variants and *Modern Language Association*) automatically convert titles to "title case," or "headline capitalization," i.e. all words except prepositions and select conjunctions are capitalized (see the *Chicago Manual's* 16th edition [8.157](http://www.chicagomanualofstyle.org/16/ch08/ch08_sec157.html) for details). While required for English titles, this will incorrectly render non-English titles (e.g. *Die Leiden Des Jungen Werther*). To disable automatic title-casing for any individual item, include its language in the **Language** field. Any combination of letter that does not begin with "en" disables automatic title-casing, but when entering languages manually, we recommend using ISO two-letter language-country codes (according to ISO [639-1](http://www.loc.gov/standards/iso639-2/php/code_list.php) and [3166](http://en.wikipedia.org/wiki/ISO_3166-1#Current_codes), such as *es-AR* for Argentine Spanish, *fr-FR* for French French, or *de-CH* for Swiss German. Using standardized language codes may prove useful as Zotero comes to include more language specific features in future versions. 
 
 ###Some Other Tips on Manual Data Entry
 * You can use the `Tab` key to get to the next field (`Shift+Tab` for the previous field)
@@ -134,7 +134,7 @@ There are two ways to import from bibliographic formats. Both can be found under
 
 ![Import](./screenshots/import_menu.png) 
 
-then select the file you want to import. Zotero will import the contents into a a new collection with the timestamp of the import ![Import Collection](./screenshots/import_collection.png)  (import from Zotero RDF and Bibliontology RDF can create collections with different names). 
+then select the file you want to import. Zotero will import the contents into a new collection with the timestamp of the import ![Import Collection](./screenshots/import_collection.png)  (import from Zotero RDF and Bibliontology RDF can create collections with different names). 
 
 *The "Import" function only works for bibliographic formats, not for documents, e.g. in PDF format. This is a frequent misunderstanding among first-time users. To add any file to Zotero simply drag it from the file system or use the "Store Copy of File" option under the "Add Item" menu*
 
