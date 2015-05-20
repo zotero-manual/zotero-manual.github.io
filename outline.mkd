@@ -130,6 +130,14 @@
 - Sharing single account
 - Co-authoring without groups
 
+##Add-ons
+- ZotFile
+- Zutilo
+- Papermachines(?)
+- Quicklook
+- ZotPlus (?)
+- Report Customizer
+
 ##Zotero Preferences (Sebastian)
 
 ##Online Library/Interface
