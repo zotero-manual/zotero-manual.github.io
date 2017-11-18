@@ -3,15 +3,15 @@ title: Preface
 layout: default
 ---
 
-#Chapter Contents
+# Chapter Contents
 {:.no_toc}
 
 * This will become a table of contents (this text will be scraped).
 {:toc}
 
-#Preface
+# Preface
 
-##Availability and Licensing
+## Availability and Licensing
 
 The guide "Mastering Zotero" is released under the Creative Commons Attribution-ShareAlike 3.0 Unported license. The source materials for this guide will always be made freely available, as well as a formatted PDF version. The authors reserve the right to sell eBook and print versions.
 
@@ -19,7 +19,7 @@ Even if you are reading a free version of this guide, consider purchasing a copy
 
 We would like to point out that the official Zotero documentation wiki is licensed under the more restrictive Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license. Since we wish to sell print copies of our guide, we made sure not to copy any material from the Zotero wiki. We both have made significant contributions to the Zotero wiki in the past, which can explain similarities in style and layout. Because of this license incompatibility, no material from this guide should be copied into the Zotero wiki, and vice versa.
 
-##About the Authors
+## About the Authors
 
 **Sebastian Karcher** - I have been using Zotero since early 2008, when I switched my OS to Linux and looked for a new reference manager for my dissertation and related work. Where Rintze is among the first 1000 Zotero users, I'm among the first 2500 (going by account numbers). I slipped into supporting and developing Zotero by accident. The first time I edited a citation style was for "CiteFest", a competition-style event organized by Northwestern University library to compare reference managers (needless to say, team Zotero won). Since then I have added or corrected hundreds of CSL styles. Under the patient tutelage of Avram Lyon and Simon Kornblith I started writing Zotero translators in 2011, teaching myself basic JavaScript along the way. Together with Aurimas Vinckevicius I now perform the largest share of maintenance and development work on Zotero translators.
 
@@ -33,7 +33,7 @@ As I was using Zotero to write my scientific papers, I became aware of limitatio
 
 I currently work fulltime as a scientist in biotechnology at Mascoma Corporation in New Hampshire, where I try to metabolically engineer baker's yeast for improved biofuel production.
 
-##Why We Wrote This Book
+## Why We Wrote This Book
 
 Zotero already has its own documentation, so why did we write this guide? Well, we had the following reasons:
 
@@ -43,7 +43,7 @@ Zotero already has its own documentation, so why did we write this guide? Well, 
 - We have written the guide in Markdown. This makes it relatively easy to produce the guide in a wide range of formats, such as HTML, PDF, eBook and print versions.
 - We both have spent thousands of hours working on Zotero and CSL in our spare time. Selling print copies of this guide could give us a little income from our hobby.
 
-##Acknowledgments
+## Acknowledgments
 
 Due to their popularity and open source nature, Zotero and CSL both have a cast of thousands. We're especially indebted to Zotero-developers Dan Stillman and Simon Kornblith, CSL developer Bruce D'Arcus, and CSL/citeproc-js/MultiLingual Zotero developer Frank G. Bennett.
 
