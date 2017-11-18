@@ -1,6 +1,8 @@
 ---
 title: Citations, Bibliographies, and More
+permalink: /citations/
 layout: default
+redirect_from: /zotero-manual/citations/
 ---
 
 # Chapter Contents

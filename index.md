@@ -1,3 +1,10 @@
+---
+title: Mastering Zotero
+permalink: /
+layout: default
+redirect_from: /zotero-manual/
+---
+
 # Mastering Zotero
 
 **Mastering Zotero** will be a comprehensive user guide for the Zotero reference manager. Writing has just started, and entries on many topics still need to be written. Entries that are already in a usable state are listed below.

@@ -1,6 +1,8 @@
 ---
 title: Collections
+permalink: /collections/
 layout: default
+redirect_from: /zotero-manual/collections/
 ---
 
 # Chapter Contents

@@ -1,6 +1,8 @@
 ---
 title: Adding Items
+permalink: /adding-items/
 layout: default
+redirect_from: /zotero-manual/adding-items/
 ---
 
 # Chapter Contents

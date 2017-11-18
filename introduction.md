@@ -1,6 +1,8 @@
 ---
 title: Introduction
+permalink: /introduction/
 layout: default
+redirect_from: /zotero-manual/introduction/
 ---
 
 # Chapter Contents

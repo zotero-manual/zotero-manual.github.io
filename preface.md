@@ -1,6 +1,8 @@
 ---
 title: Preface
+permalink: /preface/
 layout: default
+redirect_from: /zotero-manual/preface/
 ---
 
 # Chapter Contents

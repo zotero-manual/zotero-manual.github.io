@@ -1,6 +1,8 @@
 ---
 title: Installing Zotero
+permalink: /installing-zotero/
 layout: default
+redirect_from: /zotero-manual/installing-zotero/
 ---
 
 # Chapter Contents

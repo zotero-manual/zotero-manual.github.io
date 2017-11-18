@@ -1,6 +1,8 @@
 ---
 title: Adding Files
+permalink: /adding-files/
 layout: default
+redirect_from: /zotero-manual/adding-files/
 ---
 
 # Chapter Contents

@@ -1,6 +1,8 @@
 ---
 title: Tags
+permalink: /tags/
 layout: default
+redirect_from: /zotero-manual/tags/
 ---
 
 # Chapter Contents
