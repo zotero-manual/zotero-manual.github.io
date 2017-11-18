@@ -3,12 +3,13 @@ title: Citations, Bibliographies, and More
 layout: default
 ---
 
-Chapter Contents
-----------------
-* This will become a table of contents (this text will be scraped).
+# Chapter Contents
+{:.no_toc}
+
+* TOC placeholder
 {:toc}
 
-#Citations, Bibliographies, and More
+# Citations, Bibliographies, and More
 Zotero allows you to create citations and bibliographies from items in your library. Your option range from creating a bibliography on the fly, simply using drag & drop to sophisticated citations including ibid, supra notes, disambiguation etc. using word processor plugins. Zotero also provides you with options to view your items as reports or analyze them using a timeline or text-mining tools. 
 
 
@@ -19,7 +20,7 @@ To create a bibliography for one or multiple Zotero items, simply select them in
 
 select the desired citation style. In most cases you will use "Bibliography" as the **Output Mode** and "Copy to Clipboard" as the **Output Method**&mdash;more on that momentarily. Zotero will then copy a formatted bibliography for the selected items in the selected citation style to your clipboard and you can paste it anywhere you want, e.g. to your word-processor of choice. Now let's take a closer look at some of the other options. 
 
-###Output Mode
+### Output Mode
 
 Each Zotero citation style has a form for citations&mdash;what would appear in the text at the location you insert a citation&mdash;and (with very few exceptions) for the bibliography. "Create Bibliography" defaults, unsurprisingly, to creating bibliographies, but you can switch the **Output Mode** to Citation/Notes (which of the two options is displayed depends on the citation style). Most commonly you will use this to create a full note as it would appear in a footnote, e.g. according to the *Chicago Manual of Style*. For example, a note for a book using the citation style "Chicago Manual of Style (full note)" would look like this:
 
@@ -31,7 +32,7 @@ Heilbroner, Robert L. *The Worldly Philosophers: The Great Economic Thinkers*. 3
 
 Less typically, you can create in-text citations for such as (Heilbronner, 1969) by selecting "Citations" as **Output Mode** when using an author-date style such as "American Psychological Association 6th Edition". For numeric citation styles such as *Nature* or *IEEE* the "Citations" option is of little use, as it will just create numbers starting at 1. (For more on the different types of citation styles, see below). 
 
-###Output Method
+### Output Method
 While copying to the clipboard is the most common output method, Zotero offers three other choices with distinct advantages.
 
 * Using "Save as RTF" you can save the bibliography as an RTF (Rich Text Format) file that any word-processor can display. This option is particularly useful if you're using styles with complicated formatting requirements, which includes most annotated styles as well as style that list authors on separate lines in the bibliography, such as "American Anthropological Association". Such formatting will often be lost or look incorrectly when using the clipboard. When you save a bibliography to RTF, it will be directly 
@@ -214,7 +215,7 @@ To create a report for an item, right-click on the item in the middle panel and 
 
 Since the layout of the reports depends on a stylesheet included in Zotero, you will not be 
 
-**ZFF only**: By default, reports sort by their title. In Zotero for Firefox, you can change the sort order of reports by modifying the URL displayed for a report. A generic URL for a report (here of two items) looks like this: ```zotero://report/items/0_6R5DT8XP-0_826FXTJS/html/report.html```. You can add sort parameters after a question mark, such as ```?sort=date```, add multiple sort parameters separated by a comma in the order you want them to apply, and add '/d' after a parameter to change the sort descending. To sort the above report by author and then descending date, for example, you would change the url to ```zotero://report/items/0_6R5DT8XP-0_826FXTJS/html/report.html?sort=firstCreator,date/d```. A full list of possible sort parameters can be found in the [Zotero documentation](http://www.zotero.org/support/reports#sort_order).
+**ZFF only**: By default, reports sort by their title. In Zotero for Firefox, you can change the sort order of reports by modifying the URL displayed for a report. A generic URL for a report (here of two items) looks like this: ```zotero://report/items/0_6R5DT8XP-0_826FXTJS/html/report.html```. You can add sort parameters after a question mark, such as ```?sort=date```, add multiple sort parameters separated by a comma in the order you want them to apply, and add '/d' after a parameter to change the sort descending. To sort the above report by author and then descending date, for example, you would change the url to ```zotero://report/items/0_6R5DT8XP-0_826FXTJS/html/report.html?sort=firstCreator,date/d```. A full list of possible sort parameters can be found in the [Zotero documentation](http://www.zotero.org/support/reports# sort_order).
 
 **ZFF only** Zotero reports contain all fields of any item and you may find some of these fields of little interest. To customize your reports by removing selected fields, you can use Jason Priem's [Zotero report cleaner](http://jasonpriem.org/projects/report_cleaner.php). First, create the report in Zotero for Firefox. Then view the *page source* by pressing ```ctrl + u``` (Mac: ```cmd + u```), select all and copy. The open the *Report Cleaner* webpage and under step 2. select the fields to *exclude* from the report. E.g. the settings below will print all fields except Date Added, Date Modified, and attachments:
 

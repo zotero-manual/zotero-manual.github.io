@@ -1,4 +1,4 @@
-#Editing Guidelines
+# Editing Guidelines
 
 "Mastering Zotero" is written with the following guidelines kept in mind:
 

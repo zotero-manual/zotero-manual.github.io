@@ -3,20 +3,21 @@ title: Tags
 layout: default
 ---
 
-Chapter Contents
-----------------
-* This will become a table of contents (this text will be scraped).
+# Chapter Contents
+{:.no_toc}
+
+* TOC placeholder
 {:toc}
 
-#Tags
+# Tags
 
 With Zotero you can add descriptive keywords, so-called *tags*, to items, files, links and notes. Together with collections, tags can help you organize your Zotero library.
 
 How do tags differ from collections? First, tags in Zotero are not hierarchical, whereas collections can have subcollections. Secondly, tags are more portable than collections: many export formats (like RIS) save your tags, but few support collections.
 
-##Adding Tags
+## Adding Tags
 
-###Adding Tags by Hand
+### Adding Tags by Hand
 
 To add a tag to an item, select an item in the center column, and click on the **Tags** tab in the right-hand column. Click the **Add** button, type the desired tag, and press Enter.
 
@@ -34,7 +35,7 @@ By default, the **Tag Selector** in the left column shows all tags present in th
 
 ![Dragging an item onto a tag in the Tag Selector.](screenshots/OSX-ZS-4-0-8-tag-drag.png)
 
-###Automatic Tags
+### Automatic Tags
 
 When you save items via a web translator, Zotero automatically saves tags that are attached to that resource. For example, when you save a paper in PubMed, Zotero will automatically save the paper's MeSH (Medical Subject Headings) tags.
 
@@ -44,7 +45,7 @@ You can also hide automatic tags from the **Tag Selector** by unchecking the "Sh
 
 ![Unchecking the "Show Automatic" option hides automatic tags.](screenshots/OSX-ZS-4-0-8-tag-show-automatic.png)
 
-##Renaming, Deleting, and Merging Tags
+## Renaming, Deleting, and Merging Tags
 
 To rename a tag of a single item, click on the tag in the right-hand column and change the tag. To rename a tag for your entire library, right-click the tag in the **Tag Selector** (control-click on OS X) and select "Rename Tag...". Change the tag, and click "OK".
 
@@ -52,23 +53,23 @@ To delete a tag of a single item, click on the "minus" button next to the tag in
 
 You can also merge tags. Say you have been using the tags "unread" and "to read" to keep track of papers that you still want to read. To merge these two tags into one, simply rename the "to read" tag to "unread", or vice versa.
 
-##Searching by Tags
+## Searching by Tags
 
 After you've diligently tagged everything in your library, it's time for the payoff: you'll be able to quickly find items that have certain tags. So how do you search by tag?
 
 First, you can use the search bar at the top of the center column, which matches against tags if the search mode is set to "All Fields & Tags" or "Everything". You can also search by tag with **Advanced Search**. But the simplest way to filter by tag is to select one or more tags in the **Tag Selector** by clicking on them. This will only show those items in the center column that have the selected tags. You can deselect a tag by clicking it again. To quickly deselect all selected tags, select "Deselect All" in the **Actions** menu (![tag selector menu](icons/tag-selector-menu.png)) of the **Tag Selector**.
 
-##Searching for Tags
+## Searching for Tags
 
 The search box at the bottom of the **Tag Selector** can be used to filter tags in the **Tag Selector**.
 
 By default, the **Tag Selector** only shows those tags that are present in the currently selected library or collection. To always show all the tags in the current library, even when a collection is selected, check the "Display All Tags in This Library" option in the **Actions** menu of the **Tag Selector**.
 
-##Hiding the Tag Selector
+## Hiding the Tag Selector
 
 If you (temporarily) don't need the **Tag Selector** and rather have more room in the right-hand column for your libraries and collections, you can minimize the **Tag Selector**. To do this, click, or drag down, the divider at the top of the **Tag Selector**. Alternatively, use the **Toggle Tag Selector** shortcut (by default: `Ctrl + Alt + T` (Windows), `Cmd + Shift + T` (OS X)).
 
-##Colored Tags
+## Colored Tags
 
 Colored tags can be even more useful than regular tags. To assign a color to a tag, right-click the tag in the **Tag Selector** (control-click on OS X), and select "Assign Color...". In the pop-up window that opens, select the desired tag color, and click "Set Color". Up to six tags can be assigned colors. To remove a color from a tag, select "Remove Color" in the same pop-up window.
 

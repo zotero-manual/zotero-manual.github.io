@@ -1,24 +1,28 @@
-#Mastering Zotero
+# Mastering Zotero
 
-##Preface (Rintze and Sebastian: Draft)
+## Preface (Rintze and Sebastian: Draft)
+
 - Availability and Licensing
 - About the Authors
 - Why We Wrote This Book
 - Acknowledgments
     
-##Introduction (Rintze: Draft)
+## Introduction (Rintze: Draft)
+
 - What is Zotero?
 - Is Zotero the Right Tool for You?
   - The Case for using a Reference Manager
   - Zotero versus the Competition
 - Our Target Audience for this Guide
 
-##New Features per Version
+## New Features per Version
+
 - for existing users: describe new features for each (major) Zotero version, and link to relevant entries in manual
 
-##Getting started
+## Getting started
 
-###Installing Zotero (Rintze: draft)
+### Installing Zotero (Rintze: draft)
+
 - Installing Zotero for Firefox
   - Firefox version compatibility
   - Word processor plugins
@@ -30,7 +34,8 @@
 - Updating Clients
 - Troubleshooting
 
-###Zotero Client Interface
+### Zotero Client Interface
+
 (describe the main UI elements of Zotero Standalone and Zotero for Firefox)
 - Languages (does this need its own chapter, or put it in other sections?)
 	- Interface language
@@ -38,7 +43,8 @@
 	- Bibliography language (default-locale)
 - Locate
 
-##Adding Items (Sebastian)
+## Adding Items (Sebastian)
+
 - Migrating from other products
 - Save via translators
 - Manual entry
@@ -50,7 +56,8 @@
 - Import via PDF metadata
 - Proxies (missing)
 
-##Adding Files (Rintze: draft)
+## Adding Files (Rintze: draft)
+
 - File Copies and File Links
   - File Links with Relative Paths
 - Adding Files via Web Translators
@@ -60,7 +67,8 @@
   - Dragging Files
 - Adding Files from a Webpage
 
-##Syncing (Rintze)
+## Syncing (Rintze)
+
 - Data Syncing
 - File Syncing
   - Zotero Storage
@@ -69,12 +77,14 @@
 - Third-Party Solutions (Dropbox)
 - Zotfile for moving files (
 
-##Backup & Export
+## Backup & Export
+
 - Sync no substitute for backup
 - Zotero data directory (warn again against Dropbox)
 - Export formats (if leaving Zotero)
 
-##Library Curation
+## Library Curation
+
 - Related
 - Notes
 - Zotfile extraction
@@ -82,7 +92,8 @@
 - Search
 - Sorting
  
-###Collections (Rintze: draft)
+### Collections (Rintze: draft)
+
 - Creating, Renaming, and Deleting Collections
 - Moving and Copying Collections
 - Adding Items to a Collection
@@ -95,7 +106,8 @@
   - Unfiled Items
   - Trash
 
-###Tags (Rintze: draft)
+### Tags (Rintze: draft)
+
 - Adding Tags
   - Adding Tags by Hand
   - Automatic Tags
@@ -105,7 +117,8 @@
 - Hiding the Tag Selector
 - Colored Tags
 
-##Citations and Bibliographies (Sebastian)
+## Citations and Bibliographies (Sebastian)
+
 - ODFScanner 
 - Word Processor Plugins
 - BibTeX integration
@@ -115,12 +128,14 @@
 - Papermachine (missing)
 
 ## CSL styles, installing/editing/etc. (Sebastian - not started)
+
 - Brief History of CSL
 - Finding Styles - Zotero Style Repository/Search by Example
 - Installing Styles
 - Very easy edits
 
-##Collaboration
+## Collaboration
+
 - Groups
  - Creating groups
  - use case for different group types
@@ -130,7 +145,8 @@
 - Sharing single account
 - Co-authoring without groups
 
-##Add-ons
+## Add-ons
+
 - ZotFile
 - Zutilo
 - Papermachines(?)
@@ -138,11 +154,12 @@
 - ZotPlus (?)
 - Report Customizer
 
-##Zotero Preferences (Sebastian)
+## Zotero Preferences (Sebastian)
 
-##Online Library/Interface
+## Online Library/Interface
 
-##Zotero for mobile
+## Zotero for mobile
+
 - Zotero mobile webpage
 - ZotFile Tablet
 - Zandy?

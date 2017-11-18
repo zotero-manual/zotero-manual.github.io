@@ -3,14 +3,15 @@ title: Introduction
 layout: default
 ---
 
-Chapter Contents
-----------------
-* This will become a table of contents (this text will be scraped).
+# Chapter Contents
+{:.no_toc}
+
+* TOC placeholder
 {:toc}
 
-#Introduction
+# Introduction
 
-##What is Zotero?
+## What is Zotero?
 
 Curious about Zotero after hearing of it from a teacher, librarian, or fellow student? Wondering how Zotero can be useful to you, and whether it's worth a look?
 
@@ -23,11 +24,11 @@ Zotero is a reference manager, designed to help you with your scholarly research
 - share your research privately or publically, and collaborate with others, using Zotero Groups.
 - add references to these sources in your writing. Zotero supports thousands of citations styles, and comes with plugins for Word and LibreOffice.
 
-##Is Zotero the Right Tool for You?
+## Is Zotero the Right Tool for You?
 
 Zotero is not the only reference manager on the market. Is Zotero the best choice for you? Do you even need a reference manager?
 
-###The Case for using a Reference Manager
+### The Case for using a Reference Manager
 
 As with most software, there is a learning curve for reference managers. For small projects, like writing a single paper, you probably can do without one. However, even early on in your career it's worth it to invest some time exploring their use. Knowing how to use reference managers is an important skill for any researcher. Most reference managers can:
 
@@ -45,7 +46,7 @@ As with most software, there is a learning curve for reference managers. For sma
 - make it easy to collaborate with others
     - share the metadata of your sources
 
-###Zotero versus the Competition
+### Zotero versus the Competition
 
 There are quite a few reference managers on the market, so what makes Zotero special? As long-time Zotero users, we might be biased, but we think Zotero has the following important advantages:
 
@@ -58,6 +59,6 @@ There are quite a few reference managers on the market, so what makes Zotero spe
 
 For an extensive comparison between reference managers, see the … Wikipedia page.
 
-##Our Target Audience for this Guide
+## Our Target Audience for this Guide
 
 We wrote this guide for new users, for who we offer a gentle introduction to Zotero, as well as for existing users, who can use it as a resource to learn about all the features Zotero has to offer. In particular, we hope to make it easy to learn about new features soon after they become available. By making the text of the guide freely available, and offering the guide in many formats, we hope to reach a wide audience.
